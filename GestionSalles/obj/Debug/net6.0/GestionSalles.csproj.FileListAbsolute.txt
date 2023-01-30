@@ -1,0 +1,15 @@
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\bin\Debug\net6.0\GestionSalles.exe
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\bin\Debug\net6.0\GestionSalles.deps.json
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\bin\Debug\net6.0\GestionSalles.runtimeconfig.json
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\bin\Debug\net6.0\GestionSalles.dll
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\bin\Debug\net6.0\GestionSalles.pdb
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.csproj.AssemblyReference.cache
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.AssemblyInfoInputs.cache
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.AssemblyInfo.cs
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.csproj.CoreCompileInputs.cache
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.dll
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\refint\GestionSalles.dll
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.pdb
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\GestionSalles.genruntimeconfig.cache
+F:\Fomation .net CESI\Algo & prog\Gestion salle\GestionSalles\GestionSalles\obj\Debug\net6.0\ref\GestionSalles.dll
